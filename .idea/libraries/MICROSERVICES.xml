@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MICROSERVICES">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Employee-service.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Department-service.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
